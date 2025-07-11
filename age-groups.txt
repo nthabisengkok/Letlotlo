@@ -19,12 +19,12 @@
     <section>
       <h2>Toddlers (1–2.9 years)</h2>
       <p>We focus on early development, safe play, and language exposure in both English and Setswana/Sepedi.</p>
-      <img src="images/toddlers.jpg" alt="Toddler group" width="100%">
+      <img src="toddler.jpg" alt="Toddler group" width="100%">
     </section>
     <section>
       <h2>Preschoolers (3–6 years)</h2>
       <p>Structured learning through songs, stories, and outdoor activities preparing for Grade R.</p>
-      <img src="images/preschool.jpg" alt="Preschool group" width="100%">
+      <img src="preschool.jpg" alt="Preschool group" width="100%">
     </section>
   </main>
   
