@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Age Groups</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Age Groups & Services</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <section>
+      <h2>Toddlers (1–2.9 years)</h2>
+      <p>We focus on early development, safe play, and language exposure in both English and Setswana/Sepedi.</p>
+      <img src="images/toddlers.jpg" alt="Toddler group" width="100%">
+    </section>
+    <section>
+      <h2>Preschoolers (3–6 years)</h2>
+      <p>Structured learning through songs, stories, and outdoor activities preparing for Grade R.</p>
+      <img src="images/preschool.jpg" alt="Preschool group" width="100%">
+    </section>
+  </main>
+  
+<footer>
+  <p>Contact us: 072 372 2277 / 065 603 0723 | Email: info@letlotlocentre.co.za</p>
+  <p>Address: 215 Ext 24, Ga-Rankuwa, Pretoria, South Africa</p>
+</footer>
+
+</body>
+</html>
